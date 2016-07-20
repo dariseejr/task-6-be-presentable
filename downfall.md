@@ -40,4 +40,3 @@ Folks, this could be the single most important story of the year. We are talking
 
 </aside>
 
-pandoc -t revealjs --template=template-index.html -s --variable theme="black" --variable transition="slide" --variable revealjs-url="./" downfall.md -o index.html
